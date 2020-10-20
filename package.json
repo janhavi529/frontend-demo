@@ -1,0 +1,21 @@
+{
+  "name": "basic-demo-site",
+  "version": "1.0.0",
+  "description": "Test Basic Site",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janhavi529/frontend-demo.git"
+  },
+  "dependencies": {
+    "sass": "^1.27.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janhavi Toshkhani",
+  "license": "ISC"
+}
